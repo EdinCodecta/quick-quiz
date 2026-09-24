@@ -1,0 +1,22 @@
+{
+  "id": "quick-quiz",
+  "name": "Quick Quiz",
+  "version": "0.1.0",
+  "description": "Five quick questions with instant explanations and a score at the end.",
+  "entry": "index.jsx",
+  "icon": "icon.png",
+  "offline_capable": false,
+  "permissions": {},
+  "source_files": [],
+  "store": {
+    "tagline": "Five little questions. One bright brain break.",
+    "description": "A quick, friendly general-knowledge quiz. Pick an answer, learn why it is right, and see your score after five questions. Play again any time—no sign-in or saved answers needed.",
+    "screenshots": [
+      {
+        "src": "static/store/quiz-preview.png",
+        "alt": "Quick Quiz showing a multiple-choice planet question on a phone screen",
+        "label": "Choose an answer and learn something new"
+      }
+    ]
+  }
+}
